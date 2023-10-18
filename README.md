@@ -1,4 +1,4 @@
-**Coleta de dados científicos através de API SCOPUS**
+## **Coleta de dados científicos através de API SCOPUS**
 
 Este código interage com a API do Scopus, que é um dos mais conhecidos e completos banco de dados de pesquisa acadêmica. 
 O principal objetivo do código é facilitar a recuperação, organização e análise de artigos acadêmicos com base em critérios de pesquisa definidos pelo usuário. 
